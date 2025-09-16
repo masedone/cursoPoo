@@ -1,0 +1,27 @@
+{
+  "total_tareas": 5,
+  "tareas_activas": 5,
+  "tareas_completadas": 0,
+  "tareas_vencidas": 0,
+  "tareas_urgentes": 0,
+  "tasa_completado": 0.0,
+  "tiempo_promedio_completado": null,
+  "por_estado": {
+    "pendiente": 4,
+    "en_progreso": 1,
+    "completada": 0,
+    "cancelada": 0
+  },
+  "por_prioridad": {
+    "baja": 1,
+    "media": 2,
+    "alta": 2,
+    "critica": 0
+  },
+  "por_usuario": {
+    "dev1": 2,
+    "designer1": 1,
+    "dev2": 1,
+    "qa1": 1
+  }
+}

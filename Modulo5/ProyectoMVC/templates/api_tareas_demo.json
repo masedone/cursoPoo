@@ -1,0 +1,116 @@
+[
+  {
+    "id": 1,
+    "titulo": "Implementar sistema de login",
+    "descripcion": "Desarrollar autenticación de usuarios con JWT",
+    "usuario_asignado": "dev1",
+    "usuario_creador": "dev1",
+    "prioridad": "alta",
+    "estado": "en_progreso",
+    "fecha_creacion": "2025-09-17T00:54:28.973658",
+    "fecha_inicio": "2025-09-17T00:54:28.973658",
+    "fecha_completado": null,
+    "fecha_vencimiento": "2025-09-24T00:54:28.973658",
+    "etiquetas": [
+      "backend",
+      "seguridad"
+    ],
+    "comentarios": [],
+    "tiempo_estimado_horas": null,
+    "tiempo_real_horas": null,
+    "esta_vencida": false,
+    "dias_para_vencimiento": 6,
+    "necesita_atencion": false
+  },
+  {
+    "id": 2,
+    "titulo": "Diseñar interfaz de usuario",
+    "descripcion": "Crear mockups y prototipos de la aplicación",
+    "usuario_asignado": "designer1",
+    "usuario_creador": "designer1",
+    "prioridad": "media",
+    "estado": "pendiente",
+    "fecha_creacion": "2025-09-17T00:54:28.973658",
+    "fecha_inicio": null,
+    "fecha_completado": null,
+    "fecha_vencimiento": "2025-10-01T00:54:28.973658",
+    "etiquetas": [
+      "frontend",
+      "ui/ux"
+    ],
+    "comentarios": [],
+    "tiempo_estimado_horas": null,
+    "tiempo_real_horas": null,
+    "esta_vencida": false,
+    "dias_para_vencimiento": 13,
+    "necesita_atencion": false
+  },
+  {
+    "id": 3,
+    "titulo": "Configurar base de datos",
+    "descripcion": "Instalar y configurar PostgreSQL",
+    "usuario_asignado": "dev2",
+    "usuario_creador": "dev2",
+    "prioridad": "alta",
+    "estado": "pendiente",
+    "fecha_creacion": "2025-09-17T00:54:28.973658",
+    "fecha_inicio": null,
+    "fecha_completado": null,
+    "fecha_vencimiento": null,
+    "etiquetas": [
+      "backend",
+      "base-datos"
+    ],
+    "comentarios": [],
+    "tiempo_estimado_horas": null,
+    "tiempo_real_horas": null,
+    "esta_vencida": false,
+    "dias_para_vencimiento": null,
+    "necesita_atencion": false
+  },
+  {
+    "id": 4,
+    "titulo": "Escribir documentación",
+    "descripcion": "Documentar APIs y procesos de desarrollo",
+    "usuario_asignado": "dev1",
+    "usuario_creador": "dev1",
+    "prioridad": "baja",
+    "estado": "pendiente",
+    "fecha_creacion": "2025-09-17T00:54:28.973658",
+    "fecha_inicio": null,
+    "fecha_completado": null,
+    "fecha_vencimiento": null,
+    "etiquetas": [
+      "documentacion"
+    ],
+    "comentarios": [],
+    "tiempo_estimado_horas": null,
+    "tiempo_real_horas": null,
+    "esta_vencida": false,
+    "dias_para_vencimiento": null,
+    "necesita_atencion": false
+  },
+  {
+    "id": 5,
+    "titulo": "Pruebas de integración",
+    "descripcion": "Implementar tests automatizados",
+    "usuario_asignado": "qa1",
+    "usuario_creador": "qa1",
+    "prioridad": "media",
+    "estado": "pendiente",
+    "fecha_creacion": "2025-09-17T00:54:28.973658",
+    "fecha_inicio": null,
+    "fecha_completado": null,
+    "fecha_vencimiento": null,
+    "etiquetas": [
+      "testing",
+      "qa"
+    ],
+    "comentarios": [],
+    "tiempo_estimado_horas": null,
+    "tiempo_real_horas": null,
+    "esta_vencida": false,
+    "dias_para_vencimiento": null,
+    "necesita_atencion": false
+  }
+]

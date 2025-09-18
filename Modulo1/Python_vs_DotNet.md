@@ -51,7 +51,7 @@ Console.WriteLine($"Suma declarativa: {sumaDeclarativa}");
 ## 🔹 **3. PROGRAMACIÓN FUNCIONAL**
 
 ### 🐍 Python
-```python
+```pythonNU
 # Funcional con función built-in
 numeros = [1, 2, 3, 4]
 print(sum(numeros))
@@ -217,8 +217,7 @@ cuenta.SetSaldo(1000);                 // Usar setter
 
 ---
 
-## 🔹 **7. PROPERTIES (Equivalente a @property)**
-
+v
 ### 🐍 Python - @property
 ```python
 class CuentaConProperty:
